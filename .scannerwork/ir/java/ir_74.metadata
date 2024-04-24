@@ -1,0 +1,4 @@
+com.simplecity.amp_library.model.AlbumArtist#hashCode()I
+java.lang.String#hashCode()I
+==
+hashCode java.util.List#hashCode()I

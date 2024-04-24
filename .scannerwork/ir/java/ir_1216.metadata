@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.screens.main.MainController#toggleBottomSheetVisibility(ZZ)V
+com.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#getInstance()Lcom/simplecity/amp_library/ui/screens/drawer/MiniPlayerLockManager;
+==
+canShowMiniPlayer com.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#canShowMiniPlayer()Z

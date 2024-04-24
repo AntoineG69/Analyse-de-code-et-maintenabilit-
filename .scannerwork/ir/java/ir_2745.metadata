@@ -1,0 +1,6 @@
+com.simplecity.amp_library.ui.settings.SettingsPresenter#chooseDefaultPageClicked(LContext;)V
+null
+com.simplecity.amp_library.model.CategoryItem#getCategoryItems(LSharedPreferences;)Ljava/util/List;
+java.lang.Math#min(II)I
+==
+size java.util.List#size()I

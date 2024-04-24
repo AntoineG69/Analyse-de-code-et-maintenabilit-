@@ -1,0 +1,5 @@
+com.simplecity.amp_library.playback.PlaybackManager#destroy()V
+==
+closeEqualizerSessions com.simplecity.amp_library.services.Equalizer#closeEqualizerSessions(ZI)V
+release com.simplecity.amp_library.services.Equalizer#release()V
+getAudioSessionId com.simplecity.amp_library.playback.PlaybackManager#getAudioSessionId()I

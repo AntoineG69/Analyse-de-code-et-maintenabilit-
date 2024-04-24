@@ -1,0 +1,2 @@
+com.simplecity.amp_library.ui.modelviews.QueuePagerItemView#bindView(Lcom/simplecity/amp_library/ui/modelviews/QueuePagerItemView$ViewHolder;)V
+com.simplecity.amp_library.utils.PlaceholderProvider#getInstance(LContext;)Lcom/simplecity/amp_library/utils/PlaceholderProvider;

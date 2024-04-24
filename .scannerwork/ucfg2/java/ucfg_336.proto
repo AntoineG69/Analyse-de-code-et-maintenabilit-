@@ -1,0 +1,57 @@
+
+Hcom.simplecity.amp_library.model.Album#getArtworkKey()Ljava/lang/String;Ø
+¢/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilit√©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.java   ("3*≥
+2
+À  À(-ú
+ô
+
+À  À(/
+
+%2void"7com.simplecity.amp_library.model.Album#setArtworkKey()V*F
+
+__unknown_file (*(
+&com.simplecity.amp_library.model.Album*
+1*…
+3
+À À(Ö
+Ç
+
+À À(
+%0java.lang.String"__id*V
+
+__unknown_file (:*8(
+&com.simplecity.amp_library.model.Album"
+
+artworkKeyß
+§
+
+À À(
+%1boolean"	__compare*"
+
+__unknown_file (
+==*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+""*
+2
+1*ø
+1
+Ã Ã(Ö
+Ç
+
+Ã Ã(
+%3java.lang.String"__id*V
+
+__unknown_file (:*8(
+&com.simplecity.amp_library.model.Album"
+
+artworkKey"&
+
+Ã Ã(
+
+%3java.lang.StringB*(
+&com.simplecity.amp_library.model.AlbumH

@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.settings.SupportPresenter#rateClicked()V
+com.simplecity.amp_library.utils.ShuttleUtils#getShuttleStoreIntent(Ljava/lang/String;)LIntent;
+==
+getView com.simplecity.amp_library.ui.common.Presenter#getView()Ljava/lang/Object;

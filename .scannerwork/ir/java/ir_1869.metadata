@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.common.BaseActivity#onDestroy()V
+==
+destroy com.simplecity.amp_library.billing.BillingManager#destroy()V
+unbindService com.simplecity.amp_library.ui.common.BaseActivity#unbindService()V

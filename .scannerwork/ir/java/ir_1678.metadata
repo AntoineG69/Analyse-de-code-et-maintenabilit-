@@ -1,0 +1,3 @@
+com.simplecity.amp_library.playback.PlaybackManager#closeEqualizerSessions(ZI)V
+==
+closeEqualizerSessions com.simplecity.amp_library.services.Equalizer#closeEqualizerSessions(ZI)V

@@ -1,0 +1,4 @@
+com.simplecity.amp_library.model.Song#getAlbum()LAlbum;
+null
+com.simplecity.amp_library.model.Artist#instance-init#
+com.simplecity.amp_library.model.Artist#<init>(JLjava/lang/String;)V

@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#onCreate(LBundle;)V
+==
+onCreate com.simplecity.amp_library.ui.common.BaseActivity#onCreate(LBundle;)V

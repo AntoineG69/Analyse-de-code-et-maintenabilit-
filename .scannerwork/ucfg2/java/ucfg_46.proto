@@ -1,0 +1,20 @@
+
+<com.simplecity.amp_library.model.AlbumArtist#getNumAlbums()I³
+¨/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilitÃ©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.javaX X("1*”
+1Y Y(ƒ
+€
+Y Y(
+%0java.util.List"__id*X
+
+__unknown_file (<*:.
+,com.simplecity.amp_library.model.AlbumArtist"
+albumski
+Y Y(	
+%1int"java.util.List#size()I*2
+
+__unknown_file (
+
+%0java.util.List2size()"
+Y Y(
+""B0.
+,com.simplecity.amp_library.model.AlbumArtistHX

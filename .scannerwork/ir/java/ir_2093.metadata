@@ -1,0 +1,5 @@
+com.simplecity.amp_library.ui.settings.SettingsParentFragment#onResume()V
+com.simplecity.amp_library.ui.screens.drawer.DrawerLockManager#getInstance()Lcom/simplecity/amp_library/ui/screens/drawer/DrawerLockManager;
+==
+onResume test.com.androidnavigation.fragment.BaseNavigationController#onResume()V
+addDrawerLock com.simplecity.amp_library.ui.screens.drawer.DrawerLockManager#addDrawerLock(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerLockManager$DrawerLock;)V

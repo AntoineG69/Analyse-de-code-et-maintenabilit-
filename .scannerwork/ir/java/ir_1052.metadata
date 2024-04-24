@@ -1,0 +1,2 @@
+com.afollestad.aesthetic.AestheticTextInputLayout#init(LContext;LAttributeSet;)V
+com.afollestad.aesthetic.Util#resolveResId(LContext;II)I

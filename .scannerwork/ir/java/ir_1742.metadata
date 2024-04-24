@@ -1,0 +1,1 @@
+com.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmallModule#provideBillingUpdatesListener(Lcom/simplecity/amp_library/ui/widgets/WidgetConfigureActivitySmall;)Lcom/simplecity/amp_library/billing/BillingManager$BillingUpdatesListener;

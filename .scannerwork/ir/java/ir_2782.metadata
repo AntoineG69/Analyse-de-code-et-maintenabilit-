@@ -1,0 +1,21 @@
+com.simplecity.amp_library.utils.FileBrowser#loadDir(Ljava/io/File;)Ljava/util/List;
+java.util.ArrayList#<init>()V
+null
+com.simplecity.amp_library.utils.FileHelper#getExtension(Ljava/lang/String;)Ljava/lang/String;
+java.util.ArrayList#instance-init#
+java.util.Collections#reverse(Ljava/util/List;)V
+com.simplecity.amp_library.utils.FileHelper#getPath(Ljava/io/File;)Ljava/lang/String;
+com.simplecity.amp_library.utils.FileHelper#isRootDirectory(Ljava/io/File;)Z
+com.simplecity.amp_library.utils.FileHelper#getName(Ljava/lang/String;)Ljava/lang/String;
+com.simplecity.amp_library.utils.FileHelper#getAudioFilter()Ljava/io/FileFilter;
+==
+listFiles java.io.File#listFiles(Ljava/io/FileFilter;)[Ljava/io/File;
+contains java.util.List#contains(Ljava/lang/Object;)Z
+addAll java.util.List#addAll(Ljava/util/Collection;)Z
+sortFolderObjects com.simplecity.amp_library.utils.FileBrowser#sortFolderObjects(Ljava/util/List;)V
+length java.io.File#length()J
+add java.util.List#add(Ljava/lang/Object;)Z
+add java.util.List#add(ILjava/lang/Object;)V
+getName java.io.File#getName()Ljava/lang/String;
+sortFileObjects com.simplecity.amp_library.utils.FileBrowser#sortFileObjects(Ljava/util/List;)V
+isDirectory java.io.File#isDirectory()Z

@@ -1,0 +1,57 @@
+
+dcom.simplecity.amp_library.http.HttpClient#getInstance()Lcom/simplecity/amp_library/http/HttpClient;±
+¶/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilit√©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/http/HttpClient.java* (5"3*Ω
+2 ((jh
+ (&0
+%2*com.simplecity.amp_library.http.HttpClient"*com.simplecity.amp_library.http.HttpClientô
+ñ
+ ((
+%3"4com.simplecity.amp_library.http.HttpClient#<init>()V*N
+
+__unknown_file (2
+0
+%2*com.simplecity.amp_library.http.HttpClient†
+ù
+ ((;,
+*com.simplecity.amp_library.http.HttpClient"
+	sInstance"__id*N
+
+__unknown_file (2
+0
+%2*com.simplecity.amp_library.http.HttpClient*
+1*˙
+3 (†
+ù
+ (0
+%0*com.simplecity.amp_library.http.HttpClient"__id*Y
+
+__unknown_file (=*;,
+*com.simplecity.amp_library.http.HttpClient"
+	sInstanceø
+º
+ (
+%1boolean"	__compare*"
+
+__unknown_file (
+==*N
+
+__unknown_file (2
+0
+%0*com.simplecity.amp_library.http.HttpClient*"
+
+__unknown_file (
+""*
+2
+1*
+1 (†
+ù
+ (0
+%4*com.simplecity.amp_library.http.HttpClient"__id*Y
+
+__unknown_file (=*;,
+*com.simplecity.amp_library.http.HttpClient"
+	sInstance">
+ (2
+0
+%4*com.simplecity.amp_library.http.HttpClientB.",
+*com.simplecity.amp_library.http.HttpClientH

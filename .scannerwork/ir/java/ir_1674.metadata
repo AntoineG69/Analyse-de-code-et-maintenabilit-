@@ -1,0 +1,3 @@
+com.simplecity.amp_library.playback.PlaybackManager#moveQueueItem(II)V
+==
+moveQueueItem com.simplecity.amp_library.playback.QueueManager#moveQueueItem(II)V

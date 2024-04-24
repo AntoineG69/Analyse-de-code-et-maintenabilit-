@@ -1,0 +1,5 @@
+com.simplecity.amp_library.utils.menu.MenuUtils#goToAlbum(LAlbum;Lcom/simplecity/amp_library/ui/screens/drawer/NavigationEventRelay;)V
+com.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$NavigationEvent#instance-init#
+com.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$NavigationEvent#<init>(ILjava/lang/Object;Z)V
+==
+sendEvent com.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay#sendEvent(Lcom/simplecity/amp_library/ui/screens/drawer/NavigationEventRelay$NavigationEvent;)V

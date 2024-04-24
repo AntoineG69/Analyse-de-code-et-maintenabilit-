@@ -1,0 +1,3 @@
+com.simplecity.amp_library.glide.fetcher.MediaStoreFetcher#<init>(LContext;LArtworkProvider;)V
+==
+<init> com.simplecity.amp_library.glide.fetcher.BaseFetcher#<init>(LArtworkProvider;)V

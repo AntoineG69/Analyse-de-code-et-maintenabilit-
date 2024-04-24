@@ -1,0 +1,5 @@
+com.simplecity.amp_library.playback.QueueManager#onCurrentSongRemoved(Lcom/simplecity/amp_library/rx/UnsafeAction;Lcom/simplecity/amp_library/rx/UnsafeAction;)V
+com.simplecity.amp_library.playback.QueueManager#notifyMetaChanged()V
+==
+run com.simplecity.amp_library.rx.UnsafeAction#run()V
+getCurrentPlaylist com.simplecity.amp_library.playback.QueueManager#getCurrentPlaylist()Ljava/util/List;

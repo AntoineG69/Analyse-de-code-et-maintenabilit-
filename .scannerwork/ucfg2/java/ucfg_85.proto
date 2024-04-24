@@ -1,0 +1,32 @@
+
+²test.com.androidnavigation.fragment.NavigationController#newInstance(Ltest/com/androidnavigation/fragment/FragmentInfo;)Ltest/com/androidnavigation/fragment/NavigationController;Ð
+Å/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilitÃ©/TP note/Shuttle/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/NavigationController.java' (2"1*¸
+1 ("Y
+W
+ (,
+%0java.lang.String"__id*-
+
+__unknown_file (
+fragment_info‡„
+, (@>
+%18test.com.androidnavigation.fragment.NavigationController"8test.com.androidnavigation.fragment.NavigationControllerµ
+²
+( (B
+%2"Btest.com.androidnavigation.fragment.NavigationController#<init>()V*\
+
+__unknown_file (@
+>
+%18test.com.androidnavigation.fragment.NavigationController·
+´
+ (CD
+fragment8test.com.androidnavigation.fragment.NavigationController"__id*\
+
+__unknown_file (@
+>
+%18test.com.androidnavigation.fragment.NavigationController"R
+ (F
+D
+fragment8test.com.androidnavigation.fragment.NavigationController:L
+3 (L@
+fragmentInfo0test.com.androidnavigation.fragment.FragmentInfoB<":
+8test.com.androidnavigation.fragment.NavigationControllerH

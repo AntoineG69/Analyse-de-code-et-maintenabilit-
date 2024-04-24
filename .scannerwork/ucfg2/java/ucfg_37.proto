@@ -1,0 +1,108 @@
+
+Xcom.simplecity.amp_library.ui.modelviews.AlbumView#areContentsEqual(Ljava/lang/Object;)Z»
+®/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilitÃ©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/AlbumView.javaä ä(#"startingBlock*%
+2
+æ æ(p"
+
+æ æ(p
+""*Î
+3
+æ> æ(Dƒ
+€
+
+æL æ(R
+%3char[]"__id*^
+
+__unknown_file (B*@4
+2com.simplecity.amp_library.ui.modelviews.AlbumView"
+prefixg
+e
+
+æT æ(n
+%4char[]"__id*C
+
+__unknown_file ('*%
+
+otherjava.lang.Object"
+prefixÈ
+Å
+
+æ> æ(o
+%5boolean"java.util.Arrays#equals([C[C)Z*0
+
+__unknown_file ("
+java.util.Arrays**
+
+__unknown_file (
+
+%3char[]**
+
+__unknown_file (
+
+%4char[]*
+2*‘
+startingBlock
+ä# ä(1Ž
+‹
+
+ã ã(
+%6"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*7
+
+__unknown_file (
+
+otherjava.lang.Object[
+Y
+
+ä+ ä(0
+otherjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%6*
+4
+1*ß
+4
+æ æ(¢
+Ÿ
+
+æ æ(,
+%0&com.simplecity.amp_library.model.Album"__id*]
+
+__unknown_file (A*?4
+2com.simplecity.amp_library.ui.modelviews.AlbumView"
+album‡
+„
+
+æ  æ(9,
+%1&com.simplecity.amp_library.model.Album"__id*B
+
+__unknown_file (&*$
+
+otherjava.lang.Object"
+album–“
+
+æ æ(:
+%2boolean"Bcom.simplecity.amp_library.model.Album#equals(Ljava/lang/Object;)Z*J
+
+__unknown_file (.
+,
+%0&com.simplecity.amp_library.model.Album*J
+
+__unknown_file (.
+,
+%1&com.simplecity.amp_library.model.Album2equals(Ljava/lang/Object;)*
+2
+3*%
+1
+è è("
+
+è è(
+"":'
+
+ä$ ä(0
+otherjava.lang.ObjectB64
+2com.simplecity.amp_library.ui.modelviews.AlbumViewHX

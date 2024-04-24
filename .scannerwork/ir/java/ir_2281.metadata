@@ -1,0 +1,4 @@
+com.simplecity.amp_library.glide.fetcher.RemoteFetcher#<init>(Lcom/simplecity/amp_library/model/ArtworkProvider;)V
+null
+==
+getRemoteArtworkUrl com.simplecity.amp_library.model.ArtworkProvider#getRemoteArtworkUrl()Ljava/lang/String;

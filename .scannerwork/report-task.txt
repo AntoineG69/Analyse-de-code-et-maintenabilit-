@@ -1,0 +1,7 @@
+organization=analyse-de-code-et-maintenabilite-tp-note
+projectKey=analyse-de-code-et-maintenabilite-tp-note_analyse-de-code-et-maintenabilite
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.53978
+dashboardUrl=https://sonarcloud.io/dashboard?id=analyse-de-code-et-maintenabilite-tp-note_analyse-de-code-et-maintenabilite
+ceTaskId=AY8PJownxx6uOAduf71V
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY8PJownxx6uOAduf71V

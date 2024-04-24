@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#changeBreadcrumbPath()V
+==
+setBreadcrumbsPath com.simplecity.amp_library.ui.modelviews.BreadcrumbsView#setBreadcrumbsPath(Ljava/lang/String;)V

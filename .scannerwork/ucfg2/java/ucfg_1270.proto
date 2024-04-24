@@ -1,0 +1,42 @@
+
+Œcom.simplecity.amp_library.ui.settings.SettingsParentFragment#newInstance(II)Lcom/simplecity/amp_library/ui/settings/SettingsParentFragment;Ä
+¹/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilitÃ©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/settings/SettingsParentFragment.javaD) D(4"1*´
+1E E("_
+]
+F F(+
+%0java.lang.String"__id*3
+
+__unknown_file (
+preference_resourceQ
+O
+G G(
+%1java.lang.String"__id*%
+
+__unknown_file (	
+title‘Ž
+H. H(DC
+%2=com.simplecity.amp_library.ui.settings.SettingsParentFragment"=com.simplecity.amp_library.ui.settings.SettingsParentFragment¿
+¼
+H* H(F
+%3"Gcom.simplecity.amp_library.ui.settings.SettingsParentFragment#<init>()V*a
+
+__unknown_file (E
+C
+%2=com.simplecity.amp_library.ui.settings.SettingsParentFragmentÁ
+¾
+H H(GI
+fragment=com.simplecity.amp_library.ui.settings.SettingsParentFragment"__id*a
+
+__unknown_file (E
+C
+%2=com.simplecity.amp_library.ui.settings.SettingsParentFragment"W
+J J(K
+I
+fragment=com.simplecity.amp_library.ui.settings.SettingsParentFragment: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BA"?
+=com.simplecity.amp_library.ui.settings.SettingsParentFragmentH

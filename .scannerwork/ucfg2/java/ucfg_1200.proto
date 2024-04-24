@@ -1,0 +1,14 @@
+
+Ycom.simplecity.amp_library.ui.screens.drawer.DrawerDivider#getChildList()Ljava/util/List;Á
+¶/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilitÃ©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerDivider.java ()"1*Á
+1 (
+Š
+ (&
+%0java.util.List"1java.util.Collections#emptyList()Ljava/util/List;*5
+
+__unknown_file ("
+java.util.Collections""
+ ('
+
+%0java.util.ListB><
+:com.simplecity.amp_library.ui.screens.drawer.DrawerDividerH

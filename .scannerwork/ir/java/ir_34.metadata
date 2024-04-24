@@ -1,0 +1,3 @@
+com.github.florent37.glidepalette.GlidePalette#onResourceReady(LTranscodeType;LModelType;LTarget;ZZ)Z
+==
+getBitmap com.github.florent37.glidepalette.GlidePalette$BitmapHolder#getBitmap()LBitmap;

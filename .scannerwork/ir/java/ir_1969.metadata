@@ -1,0 +1,6 @@
+com.simplecity.amp_library.ui.screens.drawer.DrawerAdapter#onBindChildViewHolder(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerChild$ChildHolder;IILcom/simplecity/amp_library/ui/screens/drawer/DrawerChild;)V
+==
+bindView com.simplecity.amp_library.ui.screens.drawer.DrawerChild#bindView(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerChild$ChildHolder;)V
+isEmpty java.util.List#isEmpty()Z
+get java.util.List#get(I)Ljava/lang/Object;
+size java.util.List#size()I

@@ -1,0 +1,3 @@
+com.simplecity.amp_library.playback.PlaybackManager#reloadQueue()V
+==
+reloadQueue com.simplecity.amp_library.playback.QueueManager#reloadQueue(LFunction0;)LDisposable;

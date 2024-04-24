@@ -1,0 +1,3 @@
+com.simplecity.amp_library.glide.palette.ColorSetTranscoder#transcode(LResource;)LResource;
+com.simplecity.amp_library.glide.palette.ColorSetResource#instance-init#
+com.simplecity.amp_library.glide.palette.ColorSetResource#<init>(LColorSet;)V

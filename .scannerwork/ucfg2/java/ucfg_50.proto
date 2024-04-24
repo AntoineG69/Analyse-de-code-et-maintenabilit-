@@ -1,0 +1,118 @@
+
+8com.simplecity.amp_library.model.AlbumArtist#hashCode()I≥
+®/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilit√©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.javax x("7*[
+2zE z(FG
+E
+zE z(F	
+%8int"__id*(
+
+__unknown_file (
+
+
+%10int*
+1*◊
+3z1 z(7Ñ
+Å
+z1 z(7
+%11java.util.List"__id*X
+
+__unknown_file (<*:.
+,com.simplecity.amp_library.model.AlbumArtist"
+albumstr
+z1 z(B	
+%9int"java.util.List#hashCode()I*3
+
+__unknown_file (
+
+%11java.util.List2
+hashCode()F
+D
+z1 z(B	
+%8int"__id*'
+
+__unknown_file (
+	
+%9int*
+1*¡
+4y y(8É
+Ä
+z  z(&
+%6java.util.List"__id*X
+
+__unknown_file (<*:.
+,com.simplecity.amp_library.model.AlbumArtist"
+albums£
+†
+z  z(.
+%7boolean"	__compare*"
+
+__unknown_file (
+!=*2
+
+__unknown_file (
+
+%6java.util.List*"
+
+__unknown_file (
+""*
+2
+3*Z
+5y6 y(7F
+D
+y6 y(7	
+%2int"__id*'
+
+__unknown_file (
+	
+%4int*
+4*Ÿ
+6y$ y((É
+Ä
+y$ y((
+%5java.lang.String"__id*V
+
+__unknown_file (:*8.
+,com.simplecity.amp_library.model.AlbumArtist"
+namewu
+y$ y(3	
+%3int"java.lang.String#hashCode()I*4
+
+__unknown_file (
+
+%5java.lang.String2
+hashCode()F
+D
+y$ y(3	
+%2int"__id*'
+
+__unknown_file (
+	
+%3int*
+4*√
+7y y(É
+Ä
+y y(
+%0java.lang.String"__id*V
+
+__unknown_file (:*8.
+,com.simplecity.amp_library.model.AlbumArtist"
+name•
+¢
+y y(!
+%1boolean"	__compare*"
+
+__unknown_file (
+!=*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+""*
+5
+6*!
+1z z(G"
+{ {(
+""B0.
+,com.simplecity.amp_library.model.AlbumArtistHX

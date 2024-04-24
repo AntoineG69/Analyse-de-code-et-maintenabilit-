@@ -1,0 +1,30 @@
+
+Gcom.simplecity.amp_library.playback.PlaybackManager#getNextPosition(Z)Iº
+Ø/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilit√©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/PlaybackManager.java€ €("1*Õ
+1
+‹ ‹(¥
+±
+
+‹ ‹(6
+%00com.simplecity.amp_library.playback.QueueManager"__id*e
+
+__unknown_file (I*G5
+3com.simplecity.amp_library.playback.PlaybackManager"
+queueManagerÓÎ
+
+‹ ‹(2	
+%1int"Dcom.simplecity.amp_library.playback.QueueManager#getNextPosition(Z)I*T
+
+__unknown_file (8
+6
+%00com.simplecity.amp_library.playback.QueueManager*"
+
+__unknown_file (
+""2getNextPosition(Z)"
+
+‹ ‹(3
+"": 
+
+__unknown_file (
+""B75
+3com.simplecity.amp_library.playback.PlaybackManagerX

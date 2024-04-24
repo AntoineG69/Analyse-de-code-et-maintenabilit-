@@ -1,0 +1,2 @@
+com.simplecity.amp_library.model.Song#getFolderArtwork()Ljava/io/InputStream;
+com.simplecity.amp_library.utils.ArtworkUtils#getFolderArtwork(Ljava/lang/String;)Ljava/io/InputStream;

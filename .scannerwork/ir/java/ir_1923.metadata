@@ -1,0 +1,4 @@
+com.simplecity.amp_library.sql.sqlbrite.SqlBriteUtils#createObservable(LContext;LFunction;LQuery;Ljava/lang/Object;)LObservable;
+null
+com.simplecity.amp_library.sql.sqlbrite.SqlBriteUtils#createObservable(LContext;LQuery;)LObservable;
+com.simplecity.amp_library.sql.sqlbrite.QueryToOneOperator#instance-init#

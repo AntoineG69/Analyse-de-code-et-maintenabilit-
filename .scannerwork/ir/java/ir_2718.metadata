@@ -1,0 +1,2 @@
+com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#presentTagEditorDialog(LSong;)V
+com.simplecity.amp_library.ui.screens.tagger.TaggerDialog#newInstance(Ljava/io/Serializable;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerDialog;

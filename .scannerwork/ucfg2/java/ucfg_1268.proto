@@ -1,0 +1,34 @@
+
+Ocom.simplecity.amp_library.glide.fetcher.MultiFetcher#getId()Ljava/lang/String;¾
+±/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilitÃ©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/glide/fetcher/MultiFetcher.java‰ ‰("1*Ä
+1
+Š Š(¹
+¶
+
+Š Š(6
+%00com.simplecity.amp_library.model.ArtworkProvider"__id*j
+
+__unknown_file (N*L7
+5com.simplecity.amp_library.glide.fetcher.MultiFetcher"
+artworkProviderâß
+
+Š Š(.
+%1java.lang.String"Rcom.simplecity.amp_library.model.ArtworkProvider#getArtworkKey()Ljava/lang/String;*T
+
+__unknown_file (8
+6
+%00com.simplecity.amp_library.model.ArtworkProvider2getArtworkKey()û
+ø
+
+Š1 Š([
+%2"icom.simplecity.amp_library.glide.fetcher.MultiFetcher#getCustomArtworkSuffix(LContext;)Ljava/lang/String;*U
+
+__unknown_file (97
+5com.simplecity.amp_library.glide.fetcher.MultiFetcher*"
+
+__unknown_file (
+"""
+
+Š Š(\
+""B97
+5com.simplecity.amp_library.glide.fetcher.MultiFetcherH

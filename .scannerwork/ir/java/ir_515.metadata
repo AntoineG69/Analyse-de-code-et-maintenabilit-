@@ -1,0 +1,3 @@
+com.afollestad.aesthetic.AestheticSwitchCompat#invalidateColors(Lcom/afollestad/aesthetic/ColorIsDarkState;)V
+com.afollestad.aesthetic.ColorIsDarkState#isDark()Z
+com.afollestad.aesthetic.ColorIsDarkState#color()I

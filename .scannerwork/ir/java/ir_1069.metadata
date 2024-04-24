@@ -1,0 +1,3 @@
+com.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;
+==
+key com.afollestad.aesthetic.AestheticKeyProvider#key()Ljava/lang/String;

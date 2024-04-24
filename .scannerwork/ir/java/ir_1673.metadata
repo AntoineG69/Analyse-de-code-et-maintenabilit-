@@ -1,0 +1,3 @@
+com.simplecity.amp_library.playback.PlaybackManager#removeQueueItem(LQueueItem;)V
+==
+removeQueueItem com.simplecity.amp_library.playback.QueueManager#removeQueueItem(LQueueItem;Lcom/simplecity/amp_library/rx/UnsafeAction;Lcom/simplecity/amp_library/rx/UnsafeAction;)V

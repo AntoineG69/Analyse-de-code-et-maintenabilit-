@@ -1,0 +1,236 @@
+
+Vcom.simplecity.amp_library.utils.color.ColorHelper#findContrastColorAgainstDark(IIZD)Iª
+Æ/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilit√©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaÇ Ç(3"23"24*≤
+13
+é é(ì
+ê
+
+é é(
+%12boolean"	__compare*!
+
+__unknown_file (
+<*"
+
+__unknown_file (
+""* 
+
+__unknown_file (2*
+
+2
+3
+12*d
+24
+Ñ Ñ(H
+F
+
+Ñ Ñ(	
+%0int"__id*'
+
+__unknown_file (
+	
+%1int*
+20
+21*≈
+14
+ã: ã(=¨
+©
+
+ã ã(>
+%11void"Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#colorToHSL(I[F)V*g
+
+__unknown_file (K"I
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*'
+
+__unknown_file (
+	
+%8int*"
+
+__unknown_file (
+""*
+13*a
+15
+ã6 ã(8I
+G
+
+ã6 ã(8	
+%8int"__id*(
+
+__unknown_file (
+
+
+%10int*
+14*`
+16
+ã1 ã(3H
+F
+
+ã1 ã(3	
+%8int"__id*'
+
+__unknown_file (
+	
+%9int*
+14*&
+18
+á á("
+
+á á(
+""*Ô
+19
+Ö Ö((Æ
+´
+
+Ü Ü(:
+%6double"^com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#calculateContrast(II)D*g
+
+__unknown_file (K"I
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""ù
+ö
+
+Ü Ü(F
+%7boolean"	__compare*"
+
+__unknown_file (
+>=**
+
+__unknown_file (
+
+%6double*"
+
+__unknown_file (
+""*
+15
+16
+18*%
+1
+ú ú( "
+
+ú ú( 
+""*`
+2
+ú ú(J
+H
+
+ú ú(
+
+%16int"__id*(
+
+__unknown_file (
+
+
+%18int*
+1*`
+3
+ú ú(J
+H
+
+ú ú(
+
+%16int"__id*(
+
+__unknown_file (
+
+
+%17int*
+1*Ë
+8
+ñ ñ($Ø
+¨
+
+ñ ñ(>
+%14double"^com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#calculateContrast(II)D*g
+
+__unknown_file (K"I
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""û
+õ
+
+ñ ñ(I
+%15boolean"	__compare*!
+
+__unknown_file (
+>*+
+
+__unknown_file (
+
+%14double*"
+
+__unknown_file (
+""*
+13*`
+20
+Ö" Ö('H
+F
+
+Ö" Ö('	
+%3int"__id*'
+
+__unknown_file (
+	
+%5int*
+19*`
+21
+Ö Ö(H
+F
+
+Ö Ö(	
+%3int"__id*'
+
+__unknown_file (
+	
+%4int*
+19*≥
+12
+é" é(&ï
+í
+
+é" é(6
+%13boolean"	__compare*!
+
+__unknown_file (
+>*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*	
+2
+3
+8*d
+23
+Ñ" Ñ('H
+F
+
+Ñ" Ñ('	
+%0int"__id*'
+
+__unknown_file (
+	
+%2int*
+20
+21: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B6"4
+2com.simplecity.amp_library.utils.color.ColorHelperX

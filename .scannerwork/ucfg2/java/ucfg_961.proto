@@ -1,0 +1,174 @@
+
+Acom.simplecity.amp_library.model.Song#equals(Ljava/lang/Object;)ZÆ
+°/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilit√©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaª ª("startingBlock*¨
+2
+¡= ¡(Dï
+í
+
+¡= ¡(T
+%7boolean"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+1*á
+startingBlock
+ª ª(#ä
+á
+
+∫ ∫(
+%8"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectW
+U
+
+ª! ª("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%8*
+10*Ø
+4
+¡  ¡((ï
+í
+
+¡  ¡(9
+%6boolean"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+1*¨
+5
+ø ø(x
+v
+
+ø ø(-
+song%com.simplecity.amp_library.model.Song"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectï
+í
+
+¡ ¡(
+%5boolean"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*	
+2
+4
+1*%
+6
+Ω< Ω(A"
+
+Ω5 Ω(B
+""*ì
+7
+Ω Ω(!ß§
+
+Ω Ω(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*E
+
+__unknown_file ()'
+%com.simplecity.amp_library.model.Song2
+getClass()ïí
+
+Ω' Ω(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()∑
+¥
+
+Ω Ω(3
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%2java.lang.Class*3
+
+__unknown_file (
+
+%3java.lang.Class*
+5
+6*¿
+8
+Ω Ω(¶
+£
+
+Ω Ω(
+%1boolean"	__compare*"
+
+__unknown_file (
+==*3
+
+__unknown_file (
+
+ojava.lang.Object*"
+
+__unknown_file (
+""*
+6
+7*%
+9
+º º(""
+
+º º(#
+""*‰
+10
+º º(…
+∆
+
+º º(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*E
+
+__unknown_file ()'
+%com.simplecity.amp_library.model.Song*3
+
+__unknown_file (
+
+ojava.lang.Object*
+8
+9*%
+1
+¡ ¡(U"
+
+¡ ¡(U
+"":#
+
+ª ª("
+ojava.lang.ObjectB)'
+%com.simplecity.amp_library.model.SongHX

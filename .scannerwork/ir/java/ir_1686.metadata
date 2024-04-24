@@ -1,0 +1,4 @@
+com.simplecity.amp_library.playback.PlaybackManager#restoreBookmark()V
+==
+getCurrentSong com.simplecity.amp_library.playback.QueueManager#getCurrentSong()Lcom/simplecity/amp_library/model/Song;
+seekTo com.simplecity.amp_library.playback.PlaybackManager#seekTo(J)V

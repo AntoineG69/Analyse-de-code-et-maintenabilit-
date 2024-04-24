@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.screens.main.MainActivity#addBackPressListener(Ltest/com/androidnavigation/fragment/BackPressListener;)V
+==
+contains java.util.List#contains(Ljava/lang/Object;)Z
+add java.util.List#add(Ljava/lang/Object;)Z

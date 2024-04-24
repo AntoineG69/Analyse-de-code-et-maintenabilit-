@@ -1,0 +1,3 @@
+com.simplecity.amp_library.playback.PlaybackManager#load(Ljava/util/List;ILjava/lang/Boolean;J)V
+==
+load com.simplecity.amp_library.playback.QueueManager#load(Ljava/util/List;ILcom/simplecity/amp_library/rx/UnsafeAction;)V

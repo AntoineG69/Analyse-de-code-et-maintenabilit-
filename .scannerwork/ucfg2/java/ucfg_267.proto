@@ -1,0 +1,64 @@
+
+Fcom.simplecity.amp_library.model.Playlist#toString()Ljava/lang/String;∞
+•/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilit√©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Playlist.javav v("1*Ω
+1w w(^
+\
+w x(
+%0java.lang.String"__concat*
+w w(
+	Playlist{*
+x x(
+id=h
+f
+w x(
+%1java.lang.String"__concat*$
+w x(
+
+%0java.lang.String*
+x x(
+""n
+l
+w y(
+%2java.lang.String"__concat*$
+w x(
+
+%1java.lang.String*
+y y(
+
+, name='
+}
+y y(!
+%3java.lang.String"__id*S
+
+__unknown_file (7*5+
+)com.simplecity.amp_library.model.Playlist"
+namez
+x
+w y(!
+%4java.lang.String"__concat*$
+w y(
+
+%2java.lang.String*$
+y y(!
+
+%3java.lang.Stringh
+f
+w y((
+%5java.lang.String"__concat*$
+w y(!
+
+%4java.lang.String*
+y$ y((
+\'g
+e
+w z(
+%6java.lang.String"__concat*$
+w y((
+
+%5java.lang.String*
+z z(
+}"$
+w z(
+
+%6java.lang.StringB-+
+)com.simplecity.amp_library.model.PlaylistH

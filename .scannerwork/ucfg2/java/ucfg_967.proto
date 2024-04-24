@@ -1,0 +1,76 @@
+
+Mcom.simplecity.amp_library.model.Song#getRemoteArtworkUrl()Ljava/lang/String;®
+¡/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilitÃ©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaæ æ(%"6*%
+2
+è ê(]"
+
+è ê(^
+""*
+3
+ê" ê(]ø
+õ
+
+ê" ê(]
+%4"Rjava.net.URLEncoder#encode(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*3
+
+__unknown_file ("
+java.net.URLEncoder*4
+
+__unknown_file (
+
+%3java.lang.String*"
+
+__unknown_file (
+""*
+2*š
+4
+è é(dƒ
+€
+
+ê4 ê(=
+%3java.lang.String"__id*T
+
+__unknown_file (8*6'
+%com.simplecity.amp_library.model.Song"
+	albumName*
+3*
+5
+é# é(dø
+õ
+
+é# é(d
+%2"Rjava.net.URLEncoder#encode(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*3
+
+__unknown_file ("
+java.net.URLEncoder*4
+
+__unknown_file (
+
+%1java.lang.String*"
+
+__unknown_file (
+""*
+4*¹
+6
+è è(J–
+“
+
+è é( 
+%0java.lang.String"__concat*G
+
+è è(J97
+5https://artwork.shuttlemusicplayer.app/api/v1/artwork*
+
+é é( 
+
+?artist=‰
+†
+
+é5 é(D
+%1java.lang.String"__id*Z
+
+__unknown_file (>*<'
+%com.simplecity.amp_library.model.Song"
+albumArtistName*
+5B)'
+%com.simplecity.amp_library.model.SongH

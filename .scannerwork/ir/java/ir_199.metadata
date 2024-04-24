@@ -1,0 +1,2 @@
+android.support.design.widget.CustomCollapsingToolbarLayout#setSubtitle(Ljava/lang/CharSequence;)V
+android.support.design.widget.CustomCollapsingTextHelper#setSubtitle(Ljava/lang/CharSequence;)V

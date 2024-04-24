@@ -1,0 +1,5 @@
+com.simplecity.amp_library.http.lastfm.LastFmUtils#findSize(Ljava/util/List;Ljava/lang/String;)Lcom/simplecity/amp_library/http/lastfm/LastFmImage;
+java.lang.String#equals(Ljava/lang/Object;)Z
+==
+get java.util.List#get(I)Ljava/lang/Object;
+size java.util.List#size()I

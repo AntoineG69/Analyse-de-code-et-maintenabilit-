@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#onViewCreated(LView;LBundle;)V
+com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#getAestheticColorSetDisposable()LObservable;
+com.simplecity.amp_library.cast.CastManager#isCastAvailable(LContext;LSettingsManager;)Z

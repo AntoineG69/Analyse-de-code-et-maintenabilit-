@@ -1,0 +1,32 @@
+
+?com.simplecity.amp_library.ui.modelviews.FolderView#hashCode()Iº
+Ø/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilit√©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.javaÕ Õ("1*ı
+1
+Œ Œ([
+Y
+
+Œ Œ(%	
+%0int"java.lang.Object#hashCode()I*"
+
+__unknown_file (
+""µ
+≤
+
+œ œ(-5
+%1/com.simplecity.amp_library.model.BaseFileObject"__id*g
+
+__unknown_file (K*I5
+3com.simplecity.amp_library.ui.modelviews.FolderView"
+baseFileObject∏µ
+
+œ œ(8	
+%2int";com.simplecity.amp_library.model.BaseFileObject#hashCode()I*S
+
+__unknown_file (7
+5
+%1/com.simplecity.amp_library.model.BaseFileObject2
+hashCode()"
+
+– –(
+""B75
+3com.simplecity.amp_library.ui.modelviews.FolderViewHX

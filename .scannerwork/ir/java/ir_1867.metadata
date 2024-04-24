@@ -1,0 +1,6 @@
+com.simplecity.amp_library.ui.common.BaseActivity#onResume()V
+com.simplecity.amp_library.ui.common.BaseActivity#keepScreenOn(Z)V
+==
+queryPurchases com.simplecity.amp_library.billing.BillingManager#queryPurchases()V
+getBillingClientResponseCode com.simplecity.amp_library.billing.BillingManager#getBillingClientResponseCode()I
+bindService com.simplecity.amp_library.ui.common.BaseActivity#bindService()V

@@ -1,0 +1,106 @@
+
+Bcom.simplecity.amp_library.model.Song#toString()Ljava/lang/String;®
+¡/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilitÃ©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.java… …("1*…	
+1
+† †(e
+c
+
+† ‡(
+%0java.lang.String"__concat*
+
+† †(	
+\nSong{*
+
+‡ ‡(
+
+\nid='n
+l
+
+† ‡(
+%1java.lang.String"__concat*&
+
+† ‡(
+
+%0java.lang.String*
+
+‡ ‡(
+""t
+r
+
+† ˆ(
+%2java.lang.String"__concat*&
+
+† ‡(
+
+%1java.lang.String*
+
+ˆ ˆ(
+
+\nname='}
+{
+
+ˆ ˆ(!
+%3java.lang.String"__id*O
+
+__unknown_file (3*1'
+%com.simplecity.amp_library.model.Song"
+name€
+~
+
+† ˆ(!
+%4java.lang.String"__concat*&
+
+† ˆ(
+
+%2java.lang.String*&
+
+ˆ ˆ(!
+
+%3java.lang.String
+}
+
+† ‰(%
+%5java.lang.String"__concat*&
+
+† ˆ(!
+
+%4java.lang.String*%
+
+‰ ‰(%
+\nalbumArtistName='‰
+†
+
+‰( ‰(7
+%6java.lang.String"__id*Z
+
+__unknown_file (>*<'
+%com.simplecity.amp_library.model.Song"
+albumArtistName€
+~
+
+† ‰(7
+%7java.lang.String"__concat*&
+
+† ‰(%
+
+%5java.lang.String*&
+
+‰( ‰(7
+
+%6java.lang.Stringm
+k
+
+† Š(
+%8java.lang.String"__concat*&
+
+† ‰(7
+
+%7java.lang.String*
+
+Š Š(
+}"&
+
+† Š(
+
+%8java.lang.StringB)'
+%com.simplecity.amp_library.model.SongH

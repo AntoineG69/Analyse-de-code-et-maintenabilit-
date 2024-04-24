@@ -1,0 +1,5 @@
+com.simplecity.amp_library.ui.screens.main.MainActivity#onCreate(LBundle;)V
+com.afollestad.aesthetic.Aesthetic#isFirstTime(LAppCompatActivity;)Z
+com.afollestad.aesthetic.Aesthetic#get(LContext;)Lcom/afollestad/aesthetic/Aesthetic;
+com.simplecity.amp_library.ui.screens.main.MainController#newInstance()Lcom/simplecity/amp_library/ui/screens/main/MainController;
+com.simplecity.amp_library.ui.screens.main.MainActivity#handleIntent(LIntent;)V

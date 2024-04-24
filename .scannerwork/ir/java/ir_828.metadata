@@ -1,0 +1,2 @@
+com.simplecity.amp_library.ui.views.ThemedStatusBarView#onAttachedToWindow()V
+com.afollestad.aesthetic.Aesthetic#get(LContext;)Lcom/afollestad/aesthetic/Aesthetic;

@@ -1,0 +1,9 @@
+com.simplecity.amp_library.playback.PlaybackManager#play()V
+com.simplecity.amp_library.playback.PlaybackManager#notifyChange(Ljava/lang/String;)V
+==
+openEqualizerSession com.simplecity.amp_library.services.Equalizer#openEqualizerSession(ZI)V
+closeEqualizerSessions com.simplecity.amp_library.services.Equalizer#closeEqualizerSessions(ZI)V
+playAutoShuffleList com.simplecity.amp_library.playback.PlaybackManager#playAutoShuffleList()V
+getCurrentPlaylist com.simplecity.amp_library.playback.QueueManager#getCurrentPlaylist()Ljava/util/List;
+getAudioSessionId com.simplecity.amp_library.playback.PlaybackManager#getAudioSessionId()I
+next com.simplecity.amp_library.playback.PlaybackManager#next(Z)Z

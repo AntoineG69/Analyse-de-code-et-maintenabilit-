@@ -1,0 +1,3 @@
+com.simplecity.amp_library.model.Song#getGenre(LContext;)LSingle;
+com.simplecity.amp_library.model.Genre#getQuery()LQuery;
+com.simplecity.amp_library.sql.sqlbrite.SqlBriteUtils#createSingle(LContext;LFunction;LQuery;Ljava/lang/Object;)LSingle;

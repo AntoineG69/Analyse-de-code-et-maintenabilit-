@@ -1,0 +1,5 @@
+com.simplecity.amp_library.services.ArtworkDownloadService#onCreate()V
+null
+java.util.Collections#emptyList()Ljava/util/List;
+com.simplecity.amp_library.services.ArtworkDownloadService#getNotificationBuilder()LNotificationCompat/Builder;
+com.simplecity.amp_library.utils.ShuttleUtils#isOnline(LContext;Z)Z

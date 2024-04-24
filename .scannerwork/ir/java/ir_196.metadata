@@ -1,0 +1,10 @@
+android.support.design.widget.CustomCollapsingToolbarLayout#onLayout(ZIIII)V
+android.support.design.widget.CustomCollapsingTextHelper#setCollapsedBounds(IIII)V
+android.support.design.widget.CustomCollapsingToolbarLayout#getViewOffsetHelper(LView;)LViewOffsetHelper;
+android.support.design.widget.CustomCollapsingTextHelper#recalculate()V
+android.support.design.widget.CustomCollapsingToolbarLayout#updateScrimVisibility()V
+android.support.design.widget.CustomCollapsingTextHelper#setExpandedBounds(IIII)V
+android.support.design.widget.CustomCollapsingTextHelper#setText(Ljava/lang/CharSequence;)V
+android.support.design.widget.CustomCollapsingToolbarLayout#getHeightWithMargins(LView;)I
+android.support.design.widget.CustomCollapsingToolbarLayout#getMaxOffsetForPinChild(LView;)I
+android.support.design.widget.CustomCollapsingTextHelper#getText()Ljava/lang/CharSequence;

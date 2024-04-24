@@ -1,0 +1,73 @@
+
+>com.simplecity.amp_library.ui.modelviews.AlbumView#hashCode()I»
+®/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilitÃ©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/AlbumView.javaÝ Ý("4*^
+2
+Þ8 Þ(9H
+F
+
+Þ8 Þ(9	
+%2int"__id*'
+
+__unknown_file (
+	
+%4int*
+1*¬
+3
+Þ% Þ(*¢
+Ÿ
+
+Þ% Þ(*,
+%5&com.simplecity.amp_library.model.Album"__id*]
+
+__unknown_file (A*?4
+2com.simplecity.amp_library.ui.modelviews.AlbumView"
+album¦£
+
+Þ% Þ(5	
+%3int"2com.simplecity.amp_library.model.Album#hashCode()I*J
+
+__unknown_file (.
+,
+%5&com.simplecity.amp_library.model.Album2
+hashCode()H
+F
+
+Þ% Þ(5	
+%2int"__id*'
+
+__unknown_file (
+	
+%3int*
+1*ü
+4
+Þ Þ(¢
+Ÿ
+
+Þ Þ(,
+%0&com.simplecity.amp_library.model.Album"__id*]
+
+__unknown_file (A*?4
+2com.simplecity.amp_library.ui.modelviews.AlbumView"
+album½
+º
+
+Þ Þ("
+%1boolean"	__compare*"
+
+__unknown_file (
+!=*J
+
+__unknown_file (.
+,
+%0&com.simplecity.amp_library.model.Album*"
+
+__unknown_file (
+""*
+2
+3*%
+1
+Þ Þ(:"
+
+à à(
+""B64
+2com.simplecity.amp_library.ui.modelviews.AlbumViewHX

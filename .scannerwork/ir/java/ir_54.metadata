@@ -1,0 +1,8 @@
+com.simplecity.amp_library.ui.modelviews.AlbumView#bindView(Lcom/simplecity/amp_library/ui/modelviews/AlbumView$ViewHolder;)V
+com.github.florent37.glidepalette.GlidePalette#with(Ljava/lang/String;)Lcom/github/florent37/glidepalette/GlidePalette;
+com.simplecity.amp_library.utils.PlaceholderProvider#getInstance(LContext;)Lcom/simplecity/amp_library/utils/PlaceholderProvider;
+==
+getArtworkKey com.simplecity.amp_library.model.Album#getArtworkKey()Ljava/lang/String;
+setText com.simplecity.amp_library.format.PrefixHighlighter#setText(LTextView;[C)V
+getViewType com.simplecity.amp_library.ui.modelviews.AlbumView#getViewType()I
+use com.github.florent37.glidepalette.GlidePalette#use(I)Lcom/github/florent37/glidepalette/GlidePalette;

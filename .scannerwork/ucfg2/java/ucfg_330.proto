@@ -1,0 +1,57 @@
+
+ecom.simplecity.amp_library.model.Album#getAlbumArtist()Lcom/simplecity/amp_library/model/AlbumArtist;¯
+¢/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilitÃ©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.java“ “(%"1*æ
+1
+” ”((€~
+
+” ”(&:
+%04com.simplecity.amp_library.model.AlbumArtist$Builder"4com.simplecity.amp_library.model.AlbumArtist$Builder¯
+¬
+
+” ”((
+%1">com.simplecity.amp_library.model.AlbumArtist$Builder#<init>()V*X
+
+__unknown_file (<
+:
+%04com.simplecity.amp_library.model.AlbumArtist$BuilderŠ
+‡
+
+• •(%
+%2java.lang.String"__id*[
+
+__unknown_file (?*=(
+&com.simplecity.amp_library.model.Album"
+albumArtistNameûø
+
+” •(&:
+%34com.simplecity.amp_library.model.AlbumArtist$Builder"ƒcom.simplecity.amp_library.model.AlbumArtist$Builder#name(Ljava/lang/String;)Lcom/simplecity/amp_library/model/AlbumArtist$Builder;*X
+
+__unknown_file (<
+:
+%04com.simplecity.amp_library.model.AlbumArtist$Builder*4
+
+__unknown_file (
+
+%2java.lang.String2name(Ljava/lang/String;)»¸
+
+” –(:
+%44com.simplecity.amp_library.model.AlbumArtist$Builder"šcom.simplecity.amp_library.model.AlbumArtist$Builder#album(Lcom/simplecity/amp_library/model/Album;)Lcom/simplecity/amp_library/model/AlbumArtist$Builder;*X
+
+__unknown_file (<
+:
+%34com.simplecity.amp_library.model.AlbumArtist$Builder*F
+
+__unknown_file (*(
+&com.simplecity.amp_library.model.Album2/album(Lcom/simplecity/amp_library/model/Album;)’
+
+” —(2
+%5,com.simplecity.amp_library.model.AlbumArtist"jcom.simplecity.amp_library.model.AlbumArtist$Builder#build()Lcom/simplecity/amp_library/model/AlbumArtist;*X
+
+__unknown_file (<
+:
+%44com.simplecity.amp_library.model.AlbumArtist$Builder2build()"B
+
+” —(4
+2
+%5,com.simplecity.amp_library.model.AlbumArtistB*(
+&com.simplecity.amp_library.model.AlbumH

@@ -1,0 +1,16 @@
+com.simplecity.amp_library.utils.ArtworkDialog#build(LContext;LArtworkProvider;)LMaterialDialog;
+null
+java.util.ArrayList#<init>()V
+java.io.File#<init>(Ljava/lang/String;)V
+com.simplecity.amp_library.ui.views.recyclerview.SpacesItemDecoration#<init>(I)V
+com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#instance-init#
+com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#<init>()V
+com.simplecity.amp_library.ui.views.recyclerview.SpacesItemDecoration#instance-init#
+com.simplecity.amp_library.ui.modelviews.ArtworkView#instance-init#
+java.io.File#instance-init#
+com.simplecity.amp_library.ui.modelviews.ArtworkView#<init>(ILArtworkProvider;Lcom/simplecity/amp_library/ui/modelviews/ArtworkView$GlideListener;)V
+com.simplecity.amp_library.ui.modelviews.ArtworkView#<init>(ILArtworkProvider;Lcom/simplecity/amp_library/ui/modelviews/ArtworkView$GlideListener;Ljava/io/File;Z)V
+==
+setSelected com.simplecity.amp_library.ui.modelviews.ArtworkView#setSelected(Z)V
+get java.util.HashMap#get(Ljava/lang/Object;)Ljava/lang/Object;
+setItems com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#setItems(Ljava/util/List;)LDisposable;

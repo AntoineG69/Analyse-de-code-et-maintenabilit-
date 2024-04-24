@@ -1,0 +1,3 @@
+com.simplecity.amp_library.playback.PlaybackManager#removeSongs(Ljava/util/List;)V
+==
+removeSongs com.simplecity.amp_library.playback.QueueManager#removeSongs(Ljava/util/List;Lcom/simplecity/amp_library/rx/UnsafeAction;Lcom/simplecity/amp_library/rx/UnsafeAction;)V

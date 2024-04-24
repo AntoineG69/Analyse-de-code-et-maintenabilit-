@@ -1,0 +1,2 @@
+android.support.design.widget.CustomCollapsingToolbarLayout#getCollapsedTitleTypeface()LTypeface;
+android.support.design.widget.CustomCollapsingTextHelper#getCollapsedTypeface()LTypeface;

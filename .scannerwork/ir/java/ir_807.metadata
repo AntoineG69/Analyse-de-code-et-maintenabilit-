@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.settings.SupportPresenter#setAppVersion()V
+com.simplecity.amp_library.utils.ShuttleUtils#isUpgraded(Lcom/simplecity/amp_library/ShuttleApplication;LSettingsManager;)Z
+==
+getView com.simplecity.amp_library.ui.common.Presenter#getView()Ljava/lang/Object;

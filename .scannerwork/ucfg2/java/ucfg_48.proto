@@ -1,0 +1,72 @@
+
+Icom.simplecity.amp_library.model.AlbumArtist#toString()Ljava/lang/String;≥
+®/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilit√©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.javae e("1*ﬂ
+1f f(d
+b
+f g(
+%0java.lang.String"__concat*
+f f(
+AlbumArtist{*
+g g(
+
+name='É
+Ä
+g g(
+%1java.lang.String"__id*V
+
+__unknown_file (:*8.
+,com.simplecity.amp_library.model.AlbumArtist"
+namez
+x
+f g(
+%2java.lang.String"__concat*$
+f g(
+
+%0java.lang.String*$
+g g(
+
+%1java.lang.Stringh
+f
+f g(&
+%3java.lang.String"__concat*$
+f g(
+
+%2java.lang.String*
+g" g(&
+\'o
+m
+f h(
+%4java.lang.String"__concat*$
+f g(&
+
+%3java.lang.String*
+h h(
+	, albums=É
+Ä
+h h($
+%5java.util.List"__id*X
+
+__unknown_file (<*:.
+,com.simplecity.amp_library.model.AlbumArtist"
+albumsx
+v
+f h($
+%6java.lang.String"__concat*$
+f h(
+
+%4java.lang.String*"
+h h($
+
+%5java.util.Listg
+e
+f i(
+%7java.lang.String"__concat*$
+f h($
+
+%6java.lang.String*
+i i(
+}"$
+f i(
+
+%7java.lang.StringB0.
+,com.simplecity.amp_library.model.AlbumArtistH

@@ -1,0 +1,29 @@
+
+Mcom.simplecity.amp_library.model.Song#getFolderArtwork()Ljava/io/InputStream;®
+¡/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilitÃ©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaö ö('"1*Ô
+1
+÷ ÷(}
+{
+
+÷- ÷(1
+%0java.lang.String"__id*O
+
+__unknown_file (3*1'
+%com.simplecity.amp_library.model.Song"
+path˜
+•
+
+÷ ÷(2
+%1java.io.InputStream"gcom.simplecity.amp_library.utils.ArtworkUtils#getFolderArtwork(Ljava/lang/String;)Ljava/io/InputStream;*M
+
+__unknown_file (1"/
+-com.simplecity.amp_library.utils.ArtworkUtils*4
+
+__unknown_file (
+
+%0java.lang.String")
+
+÷ ÷(3
+
+%1java.io.InputStreamB)'
+%com.simplecity.amp_library.model.SongH

@@ -1,0 +1,12 @@
+com.simplecity.amp_library.ui.modelviews.ArtworkView#bindView(Lcom/simplecity/amp_library/ui/modelviews/ArtworkView$ViewHolder;)V
+null
+com.simplecity.amp_library.glide.utils.BitmapAndSizeDecoder#instance-init#
+com.simplecity.amp_library.glide.loader.TypeLoader#<init>(LContext;ILjava/io/File;)V
+com.simplecity.amp_library.glide.utils.BitmapAndSizeDecoder#<init>(LContext;)V
+java.lang.String#contains(Ljava/lang/CharSequence;)Z
+java.lang.System#currentTimeMillis()J
+com.simplecity.amp_library.glide.loader.TypeLoader#instance-init#
+==
+getName java.io.File#getName()Ljava/lang/String;
+getPath java.io.File#getPath()Ljava/lang/String;
+isSelected com.simplecity.amp_library.ui.modelviews.ArtworkView#isSelected()Z

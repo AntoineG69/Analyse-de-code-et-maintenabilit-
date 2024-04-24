@@ -1,0 +1,4 @@
+com.simplecity.amp_library.model.BaseFileObject#canReadWrite()Z
+java.io.File#<init>(Ljava/lang/String;)V
+com.simplecity.amp_library.utils.FileHelper#canReadWrite(Ljava/io/File;)Z
+java.io.File#instance-init#

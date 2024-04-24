@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.modelviews.AlbumView#hashCode()I
+==
+hashCode com.simplecity.amp_library.model.Album#hashCode()I

@@ -1,0 +1,39 @@
+
+Qcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isWhiteOrBlack([F)Z∆
+π/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilit√©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/color/BitmapPaletteProcessor.java– –(""3*Ñ
+2
+— —(&Ì
+Í
+
+— —(+
+%1boolean"Jcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isWhite([F)Z*]
+
+__unknown_file (A?
+=com.simplecity.amp_library.utils.color.BitmapPaletteProcessor*"
+
+__unknown_file (
+""*
+1*á
+3
+— —(Ì
+Í
+
+— —(
+%0boolean"Jcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isBlack([F)Z*]
+
+__unknown_file (A?
+=com.simplecity.amp_library.utils.color.BitmapPaletteProcessor*"
+
+__unknown_file (
+""*
+2
+1*%
+1
+— —(,"
+
+— —(,
+"": 
+
+__unknown_file (
+""BA?
+=com.simplecity.amp_library.utils.color.BitmapPaletteProcessorX

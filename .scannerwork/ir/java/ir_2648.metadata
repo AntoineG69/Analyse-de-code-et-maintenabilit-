@@ -1,0 +1,11 @@
+com.simplecity.amp_library.utils.FileHelper#renameFile(LContext;Lcom/simplecity/amp_library/model/BaseFileObject;Ljava/lang/String;)Z
+java.io.File#<init>(Ljava/lang/String;)V
+java.io.File#<init>(Ljava/io/File;Ljava/lang/String;)V
+java.io.File#instance-init#
+java.util.Collections#singletonList(Ljava/lang/Object;)Ljava/util/List;
+com.simplecity.amp_library.utils.FileHelper#getName(Ljava/lang/String;)Ljava/lang/String;
+==
+getName java.io.File#getName()Ljava/lang/String;
+getPath java.io.File#getPath()Ljava/lang/String;
+getParent com.simplecity.amp_library.model.BaseFileObject#getParent()Ljava/io/File;
+renameTo java.io.File#renameTo(Ljava/io/File;)Z

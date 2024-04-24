@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "analyse-de-code-et-maintenabilite-tp-note",
+        "projectKey": "analyse-de-code-et-maintenabilite-tp-note_analyse-de-code-et-maintenabilite"
+    }
+}

@@ -1,0 +1,3 @@
+com.simplecity.amp_library.playback.PlaybackManager#updateEqualizer()V
+==
+update com.simplecity.amp_library.services.Equalizer#update()V

@@ -1,0 +1,37 @@
+
+?com.simplecity.amp_library.model.BaseFileObject#canReadWrite()Z¶
+«/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilitÃ©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/model/BaseFileObject.java ("1*ë
+1 (†
+ƒ
+0 (4
+%0java.lang.String"__id*Y
+
+__unknown_file (=*;1
+/com.simplecity.amp_library.model.BaseFileObject"
+path.,
++ (/
+%1java.io.File"java.io.File¥
+¢
+' (5
+%2"(java.io.File#<init>(Ljava/lang/String;)V*0
+
+__unknown_file (
+
+%1java.io.File*4
+
+__unknown_file (
+
+%0java.lang.Stringæ
+ã
+ (6
+%3boolean"Icom.simplecity.amp_library.utils.FileHelper#canReadWrite(Ljava/io/File;)Z*K
+
+__unknown_file (/"-
++com.simplecity.amp_library.utils.FileHelper*0
+
+__unknown_file (
+
+%1java.io.File"
+ (7
+""B31
+/com.simplecity.amp_library.model.BaseFileObjectHX

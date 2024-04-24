@@ -1,0 +1,2 @@
+android.support.design.widget.CustomCollapsingToolbarLayout#setTitle(Ljava/lang/CharSequence;)V
+android.support.design.widget.CustomCollapsingTextHelper#setText(Ljava/lang/CharSequence;)V

@@ -1,0 +1,37 @@
+
+hcom.simplecity.amp_library.playback.QueueManager#getCurrentSong()Lcom/simplecity/amp_library/model/Song;¹
+¬/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilitÃ©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/QueueManager.javaÖ	 Ö("3*%
+2
+Ù Ù(#"
+
+Ù Ù(.
+""*ú
+3
+×% ×(8ÑÎ
+
+×% ×(:
+%0"Qcom.simplecity.amp_library.playback.QueueManager#getCurrentQueueItem()LQueueItem;*P
+
+__unknown_file (42
+0com.simplecity.amp_library.playback.QueueManager2getCurrentQueueItem()Œ
+‰
+
+Ø Ø($
+%1"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+1*%
+1
+Û Û("
+
+Û Û(
+""B42
+0com.simplecity.amp_library.playback.QueueManager

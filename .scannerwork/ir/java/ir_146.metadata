@@ -1,0 +1,6 @@
+com.simplecity.amp_library.utils.PlaceholderProvider#getPlaceHolderDrawable(Ljava/lang/String;ZLcom/simplecity/amp_library/utils/SettingsManager;)LDrawable;
+com.simplecity.amp_library.utils.PlaceholderProvider#getLargePlaceHolderResId()I
+com.simplecity.amp_library.utils.PlaceholderProvider#getInstance(LContext;)Lcom/simplecity/amp_library/utils/PlaceholderProvider;
+==
+useGmailPlaceholders com.simplecity.amp_library.utils.SettingsManager#useGmailPlaceholders()Z
+getMediumPlaceHolderResId com.simplecity.amp_library.utils.PlaceholderProvider#getMediumPlaceHolderResId()I

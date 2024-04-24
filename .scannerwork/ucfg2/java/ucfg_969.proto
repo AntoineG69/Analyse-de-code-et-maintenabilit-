@@ -1,0 +1,29 @@
+
+Jcom.simplecity.amp_library.model.Song#getTagArtwork()Ljava/io/InputStream;®
+¡/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilitÃ©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaû û($"1*Ñ
+1
+ü ü(}
+{
+
+ü* ü(.
+%0java.lang.String"__id*O
+
+__unknown_file (3*1'
+%com.simplecity.amp_library.model.Song"
+path•
+’
+
+ü ü(/
+%1java.io.InputStream"dcom.simplecity.amp_library.utils.ArtworkUtils#getTagArtwork(Ljava/lang/String;)Ljava/io/InputStream;*M
+
+__unknown_file (1"/
+-com.simplecity.amp_library.utils.ArtworkUtils*4
+
+__unknown_file (
+
+%0java.lang.String")
+
+ü ü(0
+
+%1java.io.InputStreamB)'
+%com.simplecity.amp_library.model.SongH

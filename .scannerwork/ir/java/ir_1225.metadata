@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.views.NonClickableToolbar#<init>(LContext;LAttributeSet;I)V
+==
+<init> com.afollestad.aesthetic.AestheticToolbar#<init>(LContext;LAttributeSet;I)V

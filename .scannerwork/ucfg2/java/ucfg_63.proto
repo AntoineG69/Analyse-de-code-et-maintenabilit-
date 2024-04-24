@@ -1,0 +1,42 @@
+
+Hcom.simplecity.amp_library.model.Suggestion#toString()Ljava/lang/String;²
+§/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilitÃ©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java$ $("1*˜
+1% %(n
+l
+% &(#
+%0java.lang.String"__concat*
+% %(
+Suggestion{*!
+& &(#
+mostPlayedArtist=ª
+§
+&& &(62
+%1,com.simplecity.amp_library.model.AlbumArtist"__id*a
+
+__unknown_file (E*C-
++com.simplecity.amp_library.model.Suggestion"
+mostPlayedArtist£
+ 
+'' '(6,
+%2&com.simplecity.amp_library.model.Album"__id*`
+
+__unknown_file (D*B-
++com.simplecity.amp_library.model.Suggestion"
+mostPlayedAlbum—
+”
+,. ,(D
+%3java.util.ArrayList"__id*g
+
+__unknown_file (K*I-
++com.simplecity.amp_library.model.Suggestion"
+recentlyAddedAlbumsOne—
+”
+-. -(D
+%4java.util.ArrayList"__id*g
+
+__unknown_file (K*I-
++com.simplecity.amp_library.model.Suggestion"
+recentlyAddedAlbumsTwo"
+% .(
+""B/-
++com.simplecity.amp_library.model.SuggestionH

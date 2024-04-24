@@ -1,0 +1,54 @@
+
+Dcom.simplecity.amp_library.model.Song#getSortKey()Ljava/lang/String;®
+¡/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilitÃ©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaÍ Í("3*¼
+2
+Ï Ï(¥¢
+
+Ï Ï(
+
+%2void"3com.simplecity.amp_library.model.Song#setSortKey()V*E
+
+__unknown_file ()'
+%com.simplecity.amp_library.model.Song2setSortKey()*
+1*Ä
+3
+Î Î(€
+~
+
+Î Î(
+%0java.lang.String"__id*R
+
+__unknown_file (6*4'
+%com.simplecity.amp_library.model.Song"	
+sortKey§
+¤
+
+Î Î(
+%1boolean"	__compare*"
+
+__unknown_file (
+==*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+""*
+2
+1*º
+1
+Ñ Ñ(€
+~
+
+Ñ Ñ(
+%3java.lang.String"__id*R
+
+__unknown_file (6*4'
+%com.simplecity.amp_library.model.Song"	
+sortKey"&
+
+Ñ Ñ(
+
+%3java.lang.StringB)'
+%com.simplecity.amp_library.model.SongH

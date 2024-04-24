@@ -1,0 +1,4 @@
+com.simplecity.amp_library.playback.PlaybackManager#setNextTrack()V
+com.simplecity.amp_library.playback.PlaybackManager#getNextPosition(Z)I
+==
+getCurrentPlaylist com.simplecity.amp_library.playback.QueueManager#getCurrentPlaylist()Ljava/util/List;

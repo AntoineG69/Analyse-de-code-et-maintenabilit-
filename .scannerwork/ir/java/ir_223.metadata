@@ -1,0 +1,2 @@
+android.support.design.widget.CustomCollapsingToolbarLayout#getCollapsedSubTextColor()LColorStateList;
+android.support.design.widget.CustomCollapsingTextHelper#getCollapsedSubColor()LColorStateList;

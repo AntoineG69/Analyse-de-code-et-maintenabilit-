@@ -1,0 +1,6 @@
+com.simplecity.amp_library.ui.screens.main.MainActivity#onBackPressed()V
+==
+consumeBackPress test.com.androidnavigation.fragment.BackPressListener#consumeBackPress()Z
+isEmpty java.util.List#isEmpty()Z
+get java.util.List#get(I)Ljava/lang/Object;
+size java.util.List#size()I

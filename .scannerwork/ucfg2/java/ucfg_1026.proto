@@ -1,0 +1,41 @@
+
+`com.simplecity.amp_library.saf.SafManager#getCanonicalPath(Ljava/lang/String;)Ljava/lang/String;≤
+•/C:/Users/ant1g/OneDrive/Documents/EPSI - i1/17 - Analyse de code et maintenabilit√©/TP note/Shuttle/app/src/main/java/com/simplecity/amp_library/saf/SafManager.javaÍ Í("4*7
+2
+Ï Ï(1"&
+
+Ï Ï(1
+
+%2java.lang.String*∑
+3
+Ï Ï(0†ù
+
+Ï Ï(0
+%2java.lang.String"1java.io.File#getCanonicalPath()Ljava/lang/String;*0
+
+__unknown_file (
+
+%0java.io.File2getCanonicalPath()*
+2*Ú
+4
+Ï Ï(0.
+
+Ï Ï(
+%0java.io.File"java.io.File©
+¶
+
+Ï Ï(
+%1"(java.io.File#<init>(Ljava/lang/String;)V*0
+
+__unknown_file (
+
+%0java.io.File*6
+
+__unknown_file (
+
+pathjava.lang.String*
+3:&
+
+Í  Í(+
+pathjava.lang.StringB-+
+)com.simplecity.amp_library.saf.SafManager

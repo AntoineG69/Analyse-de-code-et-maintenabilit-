@@ -1,0 +1,3 @@
+com.simplecity.amp_library.playback.PlaybackManager#enqueue(Ljava/util/List;I)V
+==
+enqueue com.simplecity.amp_library.playback.QueueManager#enqueue(Ljava/util/List;ILcom/simplecity/amp_library/rx/UnsafeAction;Lcom/simplecity/amp_library/rx/UnsafeAction;)V
